@@ -12,6 +12,7 @@ public class DataController {
 //	@GetMapping
 //	public String getData(@RequestParam String data) {
 //		return data;
+	
 //	}
 	
 	@PostMapping
